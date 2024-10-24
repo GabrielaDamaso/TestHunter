@@ -7,4 +7,4 @@ O jogo é composto por um total de 162 cartas, sendo elas:
 - 130 cartas pontos
 
 Todas as cartas e manual contendo regras e dicas estão disponíveis neste repositório. 
-Para jogar basta fazer download das cartas e do manual, realizar a impressão das cartas e a partir deste momento já se é possível utilizar e praticar os conhecimentos de teste de software.**
+Para jogar basta fazer download das cartas e do manual, realizar a impressão das cartas e a partir deste momento já se é possível utilizar e praticar os conhecimentos de teste de software.
