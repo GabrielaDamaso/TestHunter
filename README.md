@@ -1,5 +1,6 @@
 # TestHunter - Como acessar
 TestHunter é um jogo de cartas em formato digital, desenvolvido durante o TCC realizado no IFMG - Campus Bambuí.
+
 O jogo é composto por um total de 162 cartas, sendo elas:
 - 9 cartas número;
 - 13 cartas teste;
